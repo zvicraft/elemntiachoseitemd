@@ -1,0 +1,12 @@
+name: elemntiachoseitemd
+version: '${project.version}'
+main: com.zvicraft.elemntiachoseitemd.Elemntiachoseitem
+api-version: '1.20'
+commands:
+  setitem:
+    discription: set item data
+    aliases: si
+
+  setblock:
+    discription: set item data
+    aliases: sb
